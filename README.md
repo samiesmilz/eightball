@@ -2,5 +2,6 @@
 
 A simple guess app with react.
 
-Here is the preview.
+## Here is the preview.
+
 ![Eight Ball Preview](preview.png)
